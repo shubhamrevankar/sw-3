@@ -1,0 +1,101 @@
+commit f2f7ed73400134f51099fedb59682bd1d68382e5
+Author: Shubham <shubhamsrevankar8668@gmail.com>
+Date:   Tue Mar 21 14:37:51 2023 +0530
+
+    Re-adding file2.txt
+
+diff --git a/file2.txt b/file2.txt
+new file mode 100644
+index 0000000..cf61b5f
+--- /dev/null
++++ b/file2.txt
+@@ -0,0 +1 @@
++2025 Software Engineer
+\ No newline at end of file
+
+commit 0fc9c06849f077e2c7c4999cdff00e56c50d2d64
+Author: Shubham <shubhamsrevankar8668@gmail.com>
+Date:   Tue Mar 21 14:35:19 2023 +0530
+
+    Deleting file2
+
+diff --git a/file1.txt b/file1.txt
+index 75461ca..6e8bc35 100644
+--- a/file1.txt
++++ b/file1.txt
+@@ -1 +1,2 @@
+-Shubham Computer Science & Engineering Haldiram Inception
+\ No newline at end of file
++Shubham Computer Science & Engineering Haldiram Inception
++Blue
+\ No newline at end of file
+diff --git a/file2.txt b/file2.txt
+deleted file mode 100644
+index cf61b5f..0000000
+--- a/file2.txt
++++ /dev/null
+@@ -1 +0,0 @@
+-2025 Software Engineer
+\ No newline at end of file
+
+commit 0cf621e84242b4ff94ec1f69221c6009c790228c
+Author: Shubham <shubhamsrevankar8668@gmail.com>
+Date:   Tue Mar 21 14:33:28 2023 +0530
+
+    Added file2
+
+diff --git a/file2.txt b/file2.txt
+new file mode 100644
+index 0000000..cf61b5f
+--- /dev/null
++++ b/file2.txt
+@@ -0,0 +1 @@
++2025 Software Engineer
+\ No newline at end of file
+
+commit 66f394a1adb62c79f6fefdedf3dd6bb2fd5313c9
+Author: Shubham <shubhamsrevankar8668@gmail.com>
+Date:   Tue Mar 21 14:28:59 2023 +0530
+
+    Added favorite restaurant and movie
+
+diff --git a/file1.txt b/file1.txt
+index 30afca2..75461ca 100644
+--- a/file1.txt
++++ b/file1.txt
+@@ -1 +1 @@
+-Shubham Computer Science & Engineering
+\ No newline at end of file
++Shubham Computer Science & Engineering Haldiram Inception
+\ No newline at end of file
+
+commit d350a4f02d82e7c02bb1c53a7073364780038885
+Author: Shubham <shubhamsrevankar8668@gmail.com>
+Date:   Tue Mar 21 14:27:30 2023 +0530
+
+    Now has my major
+
+diff --git a/file1.txt b/file1.txt
+index 4582c3d..30afca2 100644
+--- a/file1.txt
++++ b/file1.txt
+@@ -1 +1 @@
+-Shubham 27454
+\ No newline at end of file
++Shubham Computer Science & Engineering
+\ No newline at end of file
+
+commit c99be9ac0ef562882bbdd171248291762e47f885
+Author: Shubham <shubhamsrevankar8668@gmail.com>
+Date:   Tue Mar 21 14:24:22 2023 +0530
+
+    Committing a new file with my name
+
+diff --git a/file1.txt b/file1.txt
+new file mode 100644
+index 0000000..4582c3d
+--- /dev/null
++++ b/file1.txt
+@@ -0,0 +1 @@
++Shubham 27454
+\ No newline at end of file
